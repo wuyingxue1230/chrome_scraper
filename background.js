@@ -1,9 +1,9 @@
 // 飞书API配置
 const FEISHU_CONFIG = {
-  APP_ID: 'cli_a769c6cbe13b101c',
-  APP_SECRET: 'RMv5qs1evWRblW1bekmn9fUdj2XFZZaq',
-  BASE_ID: 'R7VObQxrxaHtLzs6QzGcIFyznZg',
-  TABLE_ID: 'tbltlDw7PngrCo4x'
+  APP_ID: 'xxxx',
+  APP_SECRET: 'xxxx',
+  BASE_ID: 'xxxx',
+  TABLE_ID: 'xxxx'
 };
 
 // 获取飞书访问令牌
