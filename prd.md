@@ -32,10 +32,10 @@
 ### 2.2 技术参数
 1. **飞书配置**
    ```
-   FEISHU_APP_ID="cli_a769c6cbe13b101c"
-   FEISHU_APP_SECRET="RMv5qs1evWRblW1bekmn9fUdj2XFZZaq"
-   BASE_ID="R7VObQxrxaHtLzs6QzGcIFyznZg"
-   TABLE_ID="tbltlDw7PngrCo4x"
+   FEISHU_APP_ID="xxxx"
+   FEISHU_APP_SECRET="xxxx"
+   BASE_ID="xxxx"
+   TABLE_ID="xxxx"
    ```
 
 2. **字段配置**
